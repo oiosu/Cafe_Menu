@@ -1,2 +1,4 @@
-# Vanilla-JS-Lv1.-
-Vanilla JS Lv1. 문벅스 카페 메뉴 앱 만들기
+# ☕ JS 문벅스 카페메뉴 앱
+#### Vanilla JS로 구현 하는 상태관리가 가능한 카페메뉴 앱
+
+
